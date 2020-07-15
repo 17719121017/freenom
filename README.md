@@ -63,7 +63,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 <details>
     <summary>设置Gmail</summary>
 <br>
-  
+    
 1、在`设置>转发和POP/IMAP`中，勾选
 - 对所有邮件启用 POP 
 - 启用 IMAP
